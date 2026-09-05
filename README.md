@@ -1,2 +1,2 @@
-# Airbnb-Open-Data-Cleaning
-Kaggle arianazmoudeh/airbnbopendata/Airbnb-Open-Data.csv cleaning repo.
+# Data-Cleaning
+Cleaning real world datasets from kaggle.
